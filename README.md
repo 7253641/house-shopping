@@ -1,6 +1,6 @@
 # home_product
 
-> A Vue.js project
+> The project of site, where I modernized a shopping cart. I used HTML5, CSS3, Bootstrap4, JavaScript, VueJS and Webpack.
 
 ## Build Setup
 
